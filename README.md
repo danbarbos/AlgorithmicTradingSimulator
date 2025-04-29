@@ -1,4 +1,3 @@
-# projects
 
 # Algorithmic Trading Simulator
 
