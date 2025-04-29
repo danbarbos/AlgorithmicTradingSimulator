@@ -2,7 +2,7 @@
 # Algorithmic Trading Simulator
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/danbarbos/algorithmic-trading-simulator)
+![GitHub last commit](https://img.shields.io/github/last-commit/danbarbos/AlgorithmicTradingSimulator)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 A Python-based platform for backtesting trading strategies with technical indicators.
@@ -36,8 +36,8 @@ project/
 ## Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/danbarbos/algorithmic-trading-simulator.git
-cd algorithmic-trading-simulator
+git clone https://github.com/danbarbos/AlgorithmicTradingSimulator.git
+cd AlgorithmicTradingSimulator
 
 # Install dependencies
 pip install -r requirements.txt
