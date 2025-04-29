@@ -7,6 +7,9 @@
 
 A Python-based platform for backtesting trading strategies with technical indicators.
 
+![image](https://github.com/user-attachments/assets/f9f8e045-0bf0-4f79-acf4-ef3438d77fd8)
+
+
 ## Features
 - 📈 Fetches real market data via Yahoo Finance
 - 📊 Implements SMA, RSI, and other technical indicators
